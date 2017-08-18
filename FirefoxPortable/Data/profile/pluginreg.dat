@@ -1,0 +1,22 @@
+Generated File. Do not edit.
+
+[HEADER]
+Version|0.18t|$
+Arch|x86_64-msvc|$
+
+[PLUGINS]
+NPSWF64_26_0_0_151.dll|$
+C:\WINDOWS\system32\Macromed\Flash\NPSWF64_26_0_0_151.dll|$
+26.0.0.151|$
+1502250905648|0|0|0|$
+Shockwave Flash 26.0 r0|$
+Shockwave Flash|$
+2
+0|application/x-shockwave-flash|Adobe Flash movie|swf|$
+1|application/futuresplash|FutureSplash movie|spl|$
+
+[INVALID]
+C:\Program Files\Java\jre1.8.0_141\bin\plugin2\npjp2.dll|$
+1500598806254|$
+C:\Program Files\Java\jre1.8.0_141\bin\dtplugin\npdeployJava1.dll|$
+1500598803336|$
